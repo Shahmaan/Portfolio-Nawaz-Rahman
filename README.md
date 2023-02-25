@@ -10,14 +10,12 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 ## :briefcase: Portfolio:
 | Repositories                   | Description                        | Course                    |
 | ------------------------------ | ---------------------------------- | ------------------------- |
-|[NEURAL NETWORK & PREDICT ARTICLES OF CLOTHING][NN] | Cleaning, model building and predicting clothing items
-using the MNIST Fashion Dataset.          | Own Project |
-|[TENSORFLOW CORE LEARNING ALGORITHMS][TF]     | TensorFlow’s key algorithms including preprocessing, exploration, and model building is
-also provided for each algorithm. | Own Project |
+|[NEURAL NETWORK & PREDICT ARTICLES OF CLOTHING][nn] | Cleaning, model building and predicting clothing items using the MNIST Fashion Dataset. | Own Project |
+|[TENSORFLOW CORE LEARNING ALGORITHMS][tf] | TensorFlow’s key algorithms including preprocessing, exploration, and model building is also provided for each algorithm. | Own Project |
 
 
-[NN]: https://github.com/)](https://github.com/Shahmaan/Neural_Networks/blob/main/Neural_Networks.ipynb
-[TF]: https://github.com/Shahmaan/TensorFlow_MachineLearning/blob/main/TensorFlow_MachineLearning.ipynb
+[nn]: https://github.com/)](https://github.com/Shahmaan/Neural_Networks/blob/main/Neural_Networks.ipynb
+[tf]: https://github.com/Shahmaan/TensorFlow_MachineLearning/blob/main/TensorFlow_MachineLearning.ipynb
 
 
 ## 🌐 Socials:
