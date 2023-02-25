@@ -1,8 +1,8 @@
-# Nawaz Rahman :computer::robot::musical_note:
+# Nawaz Rahman :computer::robot:
 
 ![Banner](banner.png)
 
-Aspiring programmer who is passionate about tech. Currently studying AI & Machine learning at IT-högskolan in Gothenburg, Sweden. If you want to learn about what my education consists of, check out my [education summary][es]
+Aspiring programmer who is passionate about tech. Currently studying Data Science at EC-Utbildning in Gothenburg, Sweden. If you want to learn about what my education consists of, check out my [education summary][es]
 
 Openminded, ambitious, problemsolver who is a flexible worker and thrives in a group with good synergy, but also has an ability to work alone aswell.
 
@@ -17,6 +17,7 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 
 [nn]: https://github.com/Shahmaan/Neural_Networks/blob/main/Neural_Networks.ipynb
 [tf]: https://github.com/Shahmaan/TensorFlow_MachineLearning/blob/main/TensorFlow_MachineLearning.ipynb
+[es]: https://github.com/Shahmaan/
 
 
 ## 🌐 Socials:
