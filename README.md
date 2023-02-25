@@ -17,7 +17,7 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 
 [nn]: https://github.com/Shahmaan/Neural_Networks/blob/main/Neural_Networks.ipynb
 [tf]: https://github.com/Shahmaan/TensorFlow_MachineLearning/blob/main/TensorFlow_MachineLearning.ipynb
-[es]: https://github.com/Shahmaan/
+[es]: https://github.com/Shahmaan/Shahmaan/blob/main/Courses_info.md
 
 
 ## 🌐 Socials:
