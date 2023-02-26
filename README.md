@@ -15,6 +15,7 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 |[Python Term Project][pyt] | OOP pipeline fetching data and creating a database, processing the data and generating multiple plots. [Assignment][pyt-as] | Python |
 |[Predictive Analytics Term Project][pre] | Engaging in regression analysis involves constructing a model for prediction purposes and analyzing the findings. [Assignment][pre-as] | Predictive Analytics |
 |[SSBI Term Project][ssbi] | PowerBI is utilized to process data, generate dashboards, and perform data analysis. [Assignment][ssbi-as] | Self Service BI |
+|[Visual Data Analysis Term Project][vis] | Using OOP to visualize and analyze high-dimensional data using classification [Assignment][vis-as] | Visual Data Analysis |
 
 
 [es]: https://github.com/Shahmaan/Shahmaan/blob/main/Courses_info.md
@@ -23,10 +24,12 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 [pyt]: https://github.com/Shahmaan/Python-Course/tree/main/Term%20Project
 [pre]: https://github.com/Shahmaan/Predictive-Analytics-Course/blob/main/Term%20Project/Nawaz_Rahman_Prediktiv_analys_VG.ipynb
 [ssbi]: https://github.com/Shahmaan/Self-Service-Bi-Course/tree/main/Term%20Project
+[vis]: https://github.com/Shahmaan/Visual-Data-Analysis-Course/tree/main/Term%20Project
 
 [pyt-as]: https://github.com/Shahmaan/Python-Course/blob/main/Term%20Project/Python_Assignment.pdf
 [pre-as]: https://github.com/Shahmaan/Predictive-Analytics-Course/blob/main/Term%20Project/Prediktiv_analys_Assignment.pdf
 [ssbi-as]: https://github.com/Shahmaan/Self-Service-Bi-Course/blob/main/Term%20Project/Assignment_SSBI.pdf
+[vis-as]: https://github.com/Shahmaan/Visual-Data-Analysis-Course/blob/main/Term%20Project/Visuell_data_analys_Assignment.pdf
 
 
 ## 🌐 Socials:
