@@ -10,8 +10,8 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 ## :briefcase: Portfolio:
 | Repositories                   | Description                        | Course                    |
 | ------------------------------ | ---------------------------------- | ------------------------- |
-|[Neural Network & Predict Articles Of Clothing][nn] | Cleaning, model building and predicting clothing items using the MNIST Fashion Dataset. | Own Project |
-|[Tensorflow Core Learning Algorithms][tf] | TensorFlow’s key algorithms including preprocessing, exploration, and model building is also provided for each algorithm. | Own Project |
+|[Neural Network & Predict Articles Of Clothing][nn] | Cleaning, model building and predicting clothing items using the MNIST Fashion Dataset. | Own Project - Neural Network |
+|[Tensorflow Core Learning Algorithms][tf] | TensorFlow’s key algorithms including preprocessing, exploration, and model building is also provided for each algorithm. | Own Project - Machine Learning|
 |[Python Term Project][pyt] | OOP pipeline fetching data and creating a database, processing the data and generating multiple plots. [Assignment][pyt-as] | Python |
 |[Predictive Analytics Term Project][pre] | Engaging in regression analysis involves constructing a model for prediction purposes and analyzing the findings. [Assignment][pre-as] | Predictive Analytics |
 |[SSBI Term Project][ssbi] | PowerBI is utilized to process data, generate dashboards, and perform data analysis. [Assignment][ssbi-as] | Self Service BI |
