@@ -49,7 +49,7 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahmaan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shahmaan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Shahmaan&theme=radical&no-frame=false&no-bg=false&margin-w=4)--->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shahmaan&icon=0&color=12)](https://visitcount.itsvg.in)--->
+[![](https://visitcount.itsvg.in/api?id=Shahmaan&icon=0&color=12)](https://visitcount.itsvg.in)
