@@ -26,13 +26,13 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 [pre]: https://github.com/Shahmaan/Predictive-Analytics-Course/blob/main/Term%20Project/Nawaz_Rahman_Prediktiv_analys_VG.ipynb
 [ssbi]: https://github.com/Shahmaan/Self-Service-Bi-Course/tree/main/Term%20Project
 [vis]: https://github.com/Shahmaan/Visual-Data-Analysis-Course/tree/main/Term%20Project
-[r]: https://github.com/Shahmaan/R-Statistics/tree/main/Term%20Project
+[r]: https://github.com/Shahmaan/R-Statistics-Course/tree/main/Term%20Project
 
 [pyt-as]: https://github.com/Shahmaan/Python-Course/blob/main/Term%20Project/Python_Assignment.pdf
 [pre-as]: https://github.com/Shahmaan/Predictive-Analytics-Course/blob/main/Term%20Project/Prediktiv_analys_Assignment.pdf
 [ssbi-as]: https://github.com/Shahmaan/Self-Service-Bi-Course/blob/main/Term%20Project/Assignment_SSBI.pdf
 [vis-as]: https://github.com/Shahmaan/Visual-Data-Analysis-Course/blob/main/Term%20Project/Visuell_data_analys_Assignment.pdf
-[r-as]: https://github.com/Shahmaan/R-Statistics/blob/main/Term%20Project/Assignment_R_och_statistik.pdf
+[r-as]: https://github.com/Shahmaan/R-Statistics-Course/blob/main/Term%20Project/Assignment_R_och_statistik.pdf
 
 
 ## 🌐 Socials:
