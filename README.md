@@ -15,7 +15,7 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 |[Python Term Project][pyt] | OOP pipeline fetching data and creating a database, processing the data and generating multiple plots. [Assignment][pyt-as] | Python |
 |[Predictive Analytics Term Project][pre] | Engaging in regression analysis involves constructing a model for prediction purposes and analyzing the findings. [Assignment][pre-as] | Predictive Analytics |
 |[SSBI Term Project][ssbi] | PowerBI is utilized to process data, generate dashboards, and perform data analysis. [Assignment][ssbi-as] | Self Service BI |
-|[Visual Data Analysis Term Project][vis] | Using OOP to visualize and analyze high-dimensional data using classification [Assignment][vis-as] | Visual Data Analysis |
+|[Visual Data Analysis Term Project][vis] | Using OOP to visualize and analyze high-dimensional data using classification. [Assignment][vis-as] | Visual Data Analysis |
 |[R Programming & Statistics Term Project][r] | Using R programing to solve the assignments given. [Assignment][r-as] | R & Statistics |
 
 
