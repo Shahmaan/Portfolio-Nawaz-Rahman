@@ -2,9 +2,9 @@
 
 ![Banner](banner.png)
 
-I'm a tech enthusiast with a passion for programming. I'm presently enrolled in the Data Science program at EC-Utbildning in Gothenburg, Sweden. To learn more about my academic background, please refer to my [education summary][es]
+I'm Nawaz and a big tech enthusiast with a passion for programming. I'm presently enrolled in the Data Science program at EC-Utbildning in Gothenburg, Sweden. To learn more about my academic background, please refer to my [education summary][es]
 
-I am a solution-oriented individual with an open-minded and ambitious mindset. I possess the flexibility to work both independently and collaboratively with others, thriving in an environment with positive synergy.
+I'm a solution-oriented individual with an open-minded and ambitious mindset. I possess the flexibility to work both independently and collaboratively with others, thriving in an environment with positive synergy.
 
 
 ## :briefcase: Portfolio:
