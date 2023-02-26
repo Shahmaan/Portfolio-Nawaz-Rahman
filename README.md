@@ -16,7 +16,7 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 |[Predictive Analytics Term Project][pre] | Engaging in regression analysis involves constructing a model for prediction purposes and analyzing the findings. [Assignment][pre-as] | Predictive Analytics |
 |[SSBI Term Project][ssbi] | PowerBI is utilized to process data, generate dashboards, and perform data analysis. [Assignment][ssbi-as] | Self Service BI |
 |[Visual Data Analysis Term Project][vis] | Using OOP to visualize and analyze high-dimensional data using classification [Assignment][vis-as] | Visual Data Analysis |
-|[R Programming & Statistics][r] | [Assignment][r-as] | R & Statistics |
+|[R Programming & Statistics Term Project][r] | [Assignment][r-as] | R & Statistics |
 
 
 [es]: https://github.com/Shahmaan/Shahmaan/blob/main/Courses_info.md
