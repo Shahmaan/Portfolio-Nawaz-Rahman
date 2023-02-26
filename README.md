@@ -14,7 +14,7 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 |[Tensorflow Core Learning Algorithms][tf] | TensorFlow’s key algorithms including preprocessing, exploration, and model building is also provided for each algorithm. | Own Project |
 |[Python Term Project][pyt] | OOP pipeline fetching data and creating a database, processing the data and generating multiple plots. [Assignment][pyt-as] | Python |
 |[Predictive Analytics Term Project][pre] | Engaging in regression analysis involves constructing a model for prediction purposes and analyzing the findings. [Assignment][pre-as] | Predictive Analytics |
-|[Python Term Project Test][ssbi] | OOP pipeline fetching data and creating a database, processing the data and generating multiple plots. [Assignment][ssbi-as] | Python |
+|[SSBI Term Project][ssbi] | PowerBI is utilized to process data, generate dashboards, and perform data analysis. [Assignment][ssbi-as] | Self Service BI |
 
 
 [es]: https://github.com/Shahmaan/Shahmaan/blob/main/Courses_info.md
@@ -22,6 +22,7 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 [tf]: https://github.com/Shahmaan/TensorFlow_MachineLearning/blob/main/TensorFlow_MachineLearning.ipynb
 [pyt]: https://github.com/Shahmaan/Python-Course/tree/main/Term%20Project
 [pre]: https://github.com/Shahmaan/Predictive-Analytics-Course/blob/main/Term%20Project/Nawaz_Rahman_Prediktiv_analys_VG.ipynb
+[ssbi]: https://github.com/Shahmaan/Self-Service-Bi-Course/tree/main/Term%20Project
 
 [pyt-as]: https://github.com/Shahmaan/Python-Course/blob/main/Term%20Project/Python_Assignment.pdf
 [pre-as]: https://github.com/Shahmaan/Predictive-Analytics-Course/blob/main/Term%20Project/Prediktiv_analys_Assignment.pdf
