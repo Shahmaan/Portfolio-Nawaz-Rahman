@@ -12,8 +12,8 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 | ------------------------------ | ---------------------------------- | ------------------------- |
 |[Neural Network & Predict Articles Of Clothing][nn] | Cleaning, model building and predicting clothing items using the MNIST Fashion Dataset. | Own Project |
 |[Tensorflow Core Learning Algorithms][tf] | TensorFlow’s key algorithms including preprocessing, exploration, and model building is also provided for each algorithm. | Own Project |
-|[Python Term Project][pyt] | OOP pipeline fetching data and creating a database, processing the data and generating multiple plots. | Python |
-|[Predictive Analytics Term Project][pre] | Engaging in regression analysis involves constructing a model for prediction purposes and analyzing the findings. | Predictive Analytics |
+|[Python Term Project][pyt] | OOP pipeline fetching data and creating a database, processing the data and generating multiple plots. [Assignment][pyt-as] | Python |
+|[Predictive Analytics Term Project][pre] | Engaging in regression analysis involves constructing a model for prediction purposes and analyzing the findings. [Assignment][pre-as] | Predictive Analytics |
 
 
 [es]: https://github.com/Shahmaan/Shahmaan/blob/main/Courses_info.md
@@ -21,6 +21,9 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 [tf]: https://github.com/Shahmaan/TensorFlow_MachineLearning/blob/main/TensorFlow_MachineLearning.ipynb
 [pyt]: https://github.com/Shahmaan/Python-Course/tree/main/Term%20Project
 [pre]: https://github.com/Shahmaan/Predictive-Analytics-Course/blob/main/Term%20Project/Nawaz_Rahman_Prediktiv_analys_VG.ipynb
+
+[pyt-as]: https://github.com/Shahmaan/Python-Course/blob/main/Term%20Project/Python_Assignment.pdf
+[pre-as]: https://github.com/Shahmaan/Predictive-Analytics-Course/blob/main/Term%20Project/Prediktiv_analys_Assignment.pdf
 
 
 
