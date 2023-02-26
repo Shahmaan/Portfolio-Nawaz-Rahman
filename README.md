@@ -16,7 +16,8 @@ I'm a solution-oriented individual with an open-minded and ambitious mindset. I 
 |[Predictive Analytics Term Project][pre] | Engaging in regression analysis involves constructing a model for prediction purposes and analyzing the findings. [Assignment][pre-as] | Predictive Analytics |
 |[SSBI Term Project][ssbi] | PowerBI is utilized to process data, generate dashboards, and perform data analysis. [Assignment][ssbi-as] | Self Service BI |
 |[Visual Data Analysis Term Project][vis] | Using OOP to visualize and analyze high-dimensional data using classification. [Assignment][vis-as] | Visual Data Analysis |
-|[R Programming & Statistics Term Project][r] | Using R programing to solve the assignments given. [Assignment][r-as] | R & Statistics |
+|[R Programming & Statistics Term Project][r] | Using R programming to solve the assignments given. [Assignment][r-as] | R & Statistics |
+|[SQL Database Term Project][sql] | Using SQL programming to create databases and to solve the assignments given. [Assignment][sql-as] | SQL |
 
 
 [es]: https://github.com/Shahmaan/Shahmaan/blob/main/Courses_info.md
@@ -27,12 +28,14 @@ I'm a solution-oriented individual with an open-minded and ambitious mindset. I 
 [ssbi]: https://github.com/Shahmaan/Self-Service-Bi-Course/tree/main/Term%20Project
 [vis]: https://github.com/Shahmaan/Visual-Data-Analysis-Course/tree/main/Term%20Project
 [r]: https://github.com/Shahmaan/R-Statistics-Course/tree/main/Term%20Project
+[sql]: https://github.com/Shahmaan/SQL-Database-Course/tree/main/Term%20Project
 
 [pyt-as]: https://github.com/Shahmaan/Python-Course/blob/main/Term%20Project/Python_Assignment.pdf
 [pre-as]: https://github.com/Shahmaan/Predictive-Analytics-Course/blob/main/Term%20Project/Prediktiv_analys_Assignment.pdf
 [ssbi-as]: https://github.com/Shahmaan/Self-Service-Bi-Course/blob/main/Term%20Project/Assignment_SSBI.pdf
 [vis-as]: https://github.com/Shahmaan/Visual-Data-Analysis-Course/blob/main/Term%20Project/Visuell_data_analys_Assignment.pdf
 [r-as]: https://github.com/Shahmaan/R-Statistics-Course/blob/main/Term%20Project/Assignment_R_och_statistik.pdf
+[sql-as]: https://github.com/Shahmaan/SQL-Database-Course/blob/main/Term%20Project/Assignment%20SQL%20%26%20database.pdf
 
 
 
