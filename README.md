@@ -14,6 +14,7 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 |[Tensorflow Core Learning Algorithms][tf] | TensorFlow’s key algorithms including preprocessing, exploration, and model building is also provided for each algorithm. | Own Project |
 |[Python Term Project][pyt] | OOP pipeline fetching data and creating a database, processing the data and generating multiple plots. [Assignment][pyt-as] | Python |
 |[Predictive Analytics Term Project][pre] | Engaging in regression analysis involves constructing a model for prediction purposes and analyzing the findings. [Assignment][pre-as] | Predictive Analytics |
+|[Python Term Project Test][ssbi] | OOP pipeline fetching data and creating a database, processing the data and generating multiple plots. [Assignment][ssbi-as] | Python |
 
 
 [es]: https://github.com/Shahmaan/Shahmaan/blob/main/Courses_info.md
@@ -24,7 +25,7 @@ Openminded, ambitious, problemsolver who is a flexible worker and thrives in a g
 
 [pyt-as]: https://github.com/Shahmaan/Python-Course/blob/main/Term%20Project/Python_Assignment.pdf
 [pre-as]: https://github.com/Shahmaan/Predictive-Analytics-Course/blob/main/Term%20Project/Prediktiv_analys_Assignment.pdf
-
+[ssbi-as]: https://github.com/Shahmaan/Self-Service-Bi-Course/blob/main/Term%20Project/Assignment_SSBI.pdf
 
 
 ## 🌐 Socials:
