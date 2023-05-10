@@ -10,6 +10,7 @@ I'm a solution-oriented individual with an open-minded and ambitious mindset. I 
 ## :briefcase: Portfolio:
 | Repositories                   | Description                        | Course/Project                    |
 | ------------------------------ | ---------------------------------- | ------------------------- |
+|[Sentiment Analysis & Neural Networks Thesis][ex] | Using NLP, NLTK, LSTM to explore hotel reviews | Thesis Report |
 |[Neural Network & Predict Articles Of Clothing][nn] | Cleaning, model building and predicting clothing items using the MNIST Fashion Dataset. | Own Project - Neural Network |
 |[Tensorflow Core Learning Algorithms][tf] | TensorFlow’s key algorithms including preprocessing, exploration, and model building is also provided for each algorithm. | Own Project - Machine Learning|
 |[Python Term Project][pyt] | OOP pipeline fetching data and creating a database, processing the data and generating multiple plots. [Assignment][pyt-as] | Python |
@@ -21,6 +22,7 @@ I'm a solution-oriented individual with an open-minded and ambitious mindset. I 
 
 
 [es]: https://github.com/Shahmaan/Shahmaan/blob/main/Courses_info.md
+[ex]: https://github.com/Shahmaan/Examensarbete_DS21/blob/main/lstm_sentiment_analysis.ipynb
 [nn]: https://github.com/Shahmaan/Neural_Networks/blob/main/Neural_Networks.ipynb
 [tf]: https://github.com/Shahmaan/TensorFlow_MachineLearning/blob/main/TensorFlow_MachineLearning.ipynb
 [pyt]: https://github.com/Shahmaan/Python-Course/tree/main/Term%20Project
